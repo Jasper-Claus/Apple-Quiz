@@ -1,0 +1,37 @@
+a{
+    text-decoration: none;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: arial black;
+    font-size: 50px;
+    text-decoration: solid;
+}
+
+h2{
+
+ color: white;
+ text-align: center;
+ font-family: arial black;
+ font-size: 50px;
+    
+}
+
+button{
+    display: flex;
+    flex-direction: column;
+    font-family: arial black;
+    background-color: coral;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    transform: translateX(800px);
+    width: 300px;
+    height: 50px;
+
+   
+
+}
+
+
