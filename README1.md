@@ -6,4 +6,4 @@ colors, and animations.
 Overall, it was an exciting challenge to create a quiz with HTML and CSS that is both informative and entertaining.
 
 
-Jasper is a very cool guy
+Jasper is a very cool guy!
