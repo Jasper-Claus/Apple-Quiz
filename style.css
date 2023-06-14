@@ -1,3 +1,9 @@
+.los:hover{
+    color: green;
+
+}
+
+
 a{
     text-decoration: none;
     cursor: pointer;
@@ -21,6 +27,8 @@ h2{
 
 button{
     display: flex;
+    border: none;
+    border-radius: 300px;
     flex-direction: column;
     font-family: arial black;
     background-color: coral;
